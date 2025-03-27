@@ -1,5 +1,15 @@
 <h2 align="left">Hi 👋! My name is Sebastian Fonseca</h2>
 
+## 💻 Desarrollador Full Stack  
+
+**Backend:** C# | Firebase | Java  
+**Frontend:** JavaScript | HTML | CSS | Unity  
+
+🚀 Apasionado por el desarrollo de software, con experiencia en la creación de aplicaciones escalables y eficientes.  
+Me especializo en el desarrollo backend con **C# y Firebase**, además de construir interfaces interactivas con **JavaScript y Unity**.  
+
+📚 Siempre en constante aprendizaje para mejorar mis habilidades y explorar nuevas tecnologías.  
+
 ###
 
 <div align="center">
