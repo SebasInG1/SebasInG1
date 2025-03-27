@@ -24,6 +24,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sebastian-fonseca-matta/" target="_blank">
@@ -37,8 +45,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Ssfonsecam">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Ssfonsecam&count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31fxgeq3cgaxkbyahsyf6r7ax65i">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fxgeq3cgaxkbyahsyf6r7ax65i&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
