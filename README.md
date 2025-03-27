@@ -36,7 +36,7 @@
 <img align="right" height="150" src="https://i.pinimg.com/736x/3f/48/20/3f482093f17eadfc787031984602bb14.jpg"  />
 
 ###
-
+<br clear="both">
 <div align="left">
   <a href="https://www.linkedin.com/in/sebastian-fonseca-matta/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
