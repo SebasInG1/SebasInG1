@@ -2,7 +2,10 @@
 
 ###
 
-<img align="right" height="190" src="https://i.pinimg.com/736x/e2/7c/45/e27c4599fd4cfa5cf3552d8d7e231787.jpg"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SebasInG1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SebasInG1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -21,9 +24,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/736x/3f/48/20/3f482093f17eadfc787031984602bb14.jpg"  />
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sebastian-fonseca-matta/" target="_blank">
@@ -36,11 +48,18 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31fxgeq3cgaxkbyahsyf6r7ax65i">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fxgeq3cgaxkbyahsyf6r7ax65i&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SebasInG1/SebasInG1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SebasInG1/SebasInG1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SebasInG1/SebasInG1/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SebasInG1/count.svg?"  />
+</div>
+
+###
